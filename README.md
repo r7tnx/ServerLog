@@ -42,4 +42,4 @@ example link
 
 
 
-### THIS shit took me a hour to do holy shit please use my plugin
+### THIS README SHIT took me a hour to do holy shit please use my plugin
